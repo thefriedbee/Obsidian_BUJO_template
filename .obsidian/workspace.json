@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "87770ba3bef3b93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb1f610d5a95b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819da5b6ccdc9759",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d04370579b26ea4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c872bbd98c35697",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e03b4899ec7047ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1344d5122038b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc173fd86e1c81e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c1e3592243a607e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f48f580c7be27874",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24d994dd347b02fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "767ba892362012e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "288e836287b6d520",
+        "type": "tabs",
+        "dimension": 38.72651356993737,
+        "children": [
+          {
+            "id": "a07beaf498cd3237",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d25160a9f3519788",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e1a88a77d96435a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da594cfb060bb141",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d13f95197e8f756",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4628ae296ed0af5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3a33949da94b0559",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "0e01f8319189145f",
+        "type": "tabs",
+        "dimension": 61.27348643006263,
+        "children": [
+          {
+            "id": "61220a16ae0cd207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pomodoro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "6d13f95197e8f756",
+  "lastOpenFiles": [
+    "Notes/editing/Davinci Resolve tricks.md",
+    "Notes/vlog/CodeMindset.md",
+    "1.Daily Log/2024-09-19.md",
+    "1.Daily Log/2024-09-18.md",
+    "1.Daily Log/2024-09-17.md",
+    "Notes/vlog/PoissonProcess.md",
+    "Untitled.md",
+    "Temp file for gpt rephrase.md",
+    "pomodoro.md",
+    "phd_ad.md",
+    "2024-04-27.md",
+    "Transfer Learning.md",
+    "1.Daily Log/2024-09-14.md",
+    "1.Daily Log/2024-09-13.md",
+    "1.Daily Log/2024-09-12.md",
+    "1.Daily Log/2024-09-10.md",
+    "1.Daily Log/2024-09-09.md",
+    "1.Daily Log/2024-09-08.md",
+    "1.Daily Log/2024-09-05.md",
+    "1.Daily Log/2024-09-06.md",
+    "Notes/vlog/NewCodeRoute.md",
+    "1.Daily Log/2024-08-12.md",
+    "2.Weekly Log/2024-W29.md",
+    "1.Daily Log/2024-09-04.md",
+    "1.Daily Log/2024-09-03.md",
+    "1.Daily Log/2024-09-02.md",
+    "Literatures.json",
+    "LR/My Library.json",
+    "ZCOOLXiaoWei-Regular.ttf",
+    "Research/LR/My Library.json",
+    "Notes/JS/nextJS/para_routes.png",
+    "img_pool/robustness_diagram.png",
+    "Projects/Lily/lily_classes.jpeg",
+    "Notes/JS/nextJS/nestjs_para_routes.png",
+    "Research/LR/ZoteroLib_MacStudio.json",
+    "Notes/Memory Training/image_pool/gym.jpg",
+    "Notes/Memory Training/image_pool/toilet.jpg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Notes/Memory Training/image_pool/kitchen.jpg",
+    "Notes/Memory Training/image_pool/bedroom.jpg",
+    "Notes/Memory Training/image_pool/balcony.jpg",
+    "Notes/Memory Training/image_pool/IMG_0404.HEIC",
+    "Notes/Memory Training/image_pool/IMG_0396.HEIC",
+    "Notes/Memory Training/image_pool/insurance_waiver.pdf",
+    "Research/LR/pool/tmas_imputation",
+    "Notes/JS/nextJS"
+  ]
+}

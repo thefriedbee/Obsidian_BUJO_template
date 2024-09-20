@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "383f6cf7d432789c",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ef0342b3bdfb91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "861b6207009ec859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Daily Log/2024-04-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26139da547cf60a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/vlog/LLM_as_a_language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6524bcda8f4b979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Daily Log/2024-03-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28039a14b35a7a2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "104eb8f3cebb3fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/vlog/ObsidianPhone1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8137dc264c042c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/5YearPlan_mindmap.md"
+              }
+            }
+          },
+          {
+            "id": "e9f34a4ad465561c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/vlog/CodeStructure1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "558cf310fdd5d272",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a6c9dfd392076b5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c65fa8b24f0d0b3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b3fd3565ca1b310e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8c140d837da31a18",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "988ae63f3bbb25ef",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aab806afda4104bf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7381724f3c676867",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1.Daily Log/2024-04-26.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9704c115c6d7e7eb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1.Daily Log/2024-04-26.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9f7c71d9b3345402",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1.Daily Log/2024-04-26.md"
+          }
+        }
+      },
+      {
+        "id": "4b6ecbd92f078ebb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "a72e26253542d7a7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "obsidian-projects:Open projects": false,
+      "audio-recorder:Start/stop recording": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "861b6207009ec859",
+  "lastOpenFiles": [
+    "Notes/vlog/PyCharm.md",
+    "1.Daily Log/2024-04-26.md",
+    "Notes/vlog/CodeStructure1.md",
+    "Excalidraw/5YearPlan_mindmap.md",
+    "1.Daily Log/2024-03-22.md",
+    "Notes/vlog/ObsidianPhone1.md",
+    "Recording 20240313144045.m4a",
+    "Recording 20240313143645.m4a",
+    "1.Daily Log/2024-03-12.md",
+    "1.Daily Log/2024-03-21.md",
+    "Recording 20240313135535.m4a",
+    "Recording 20240313124213.m4a",
+    "Recording 20240313123558.webm",
+    "Recording 20240313122927.m4a",
+    "Recording 20240313122827.m4a",
+    "2.Weekly Log/2024-W11.md",
+    "1.Daily Log/2024-03-11.md",
+    "1.Daily Log/2024-03-10.md",
+    "1.Daily Log/2024-03-08.md",
+    "1.Daily Log/2024-03-04.md",
+    "Notes/vlog/LLM_as_a_language.md",
+    "1.Daily Log/2024-02-27.md",
+    "1.Daily Log/2024-02-26.md",
+    "1.Daily Log/2024-02-25.md",
+    "1.Daily Log/2024-02-16.md",
+    "1.Daily Log/2024-02-17.md",
+    "1.Daily Log/2024-02-15.md",
+    "1.Daily Log/2024-02-14.md",
+    "1.Daily Log/2024-02-13.md",
+    "1.Daily Log/2024-02-12.md",
+    "1.Daily Log/2024-02-11.md",
+    "1.Daily Log/2024-02-10.md",
+    "1.Daily Log/2024-02-09.md",
+    "Pasted Image 20231013003101_839.png",
+    "Pasted Image 20231013002030_783.png",
+    "Pasted Image 20231013001701_776.png",
+    "Pasted Image 20231013003517_883.png",
+    "Pasted Image 20231013001916_765.png",
+    "Pasted Image 20231013003133_782.png",
+    "Pasted Image 20231013003150_803.png",
+    "Pasted Image 20231013002929_801.png",
+    "Pasted Image 20231013002839_136.png",
+    "Pasted Image 20231013002525_775.png",
+    "Literatures.json",
+    "Untitled.canvas",
+    "papers/1706.03762.pdf",
+    "Untitled 1.canvas",
+    "Memory Training/image_pool/IMG_0396.HEIC",
+    "obsidian tutorial.canvas",
+    "Weekly Plan.canvas"
+  ]
+}

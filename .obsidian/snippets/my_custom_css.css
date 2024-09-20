@@ -1,0 +1,11 @@
+/* for editing view */
+.customname.markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer,
+.customname.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-content,
+.customname.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-line:not(.HyperMD-table-row) {
+    max-width: 1000px;
+}
+
+/* for reading view */
+.customname.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+    max-width: 1000px;
+}

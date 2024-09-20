@@ -1,0 +1,560 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/C2_RM",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "path",
+              "name",
+              "due",
+              "excalidraw-plugin",
+              "finished",
+              "priority",
+              "status",
+              "tags"
+            ],
+            "fieldConfig": {
+              "path": {
+                "width": 291
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f5bdbdd2-6140-4bb7-9f99-05ea0cb108b3",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5a582166-5d0f-4bf1-9b6d-650c49e0982c",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "a63386f1-4d99-4d1d-8082-79db8ea8bdb1",
+      "name": "C2_RM"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Template/project_note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/C1_IdentifyFlow",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "path",
+              "name",
+              "due",
+              "excalidraw-plugin",
+              "finished",
+              "priority",
+              "status",
+              "tags"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 253
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "d32b9d43-81ea-4350-86d6-e8f1937b4794",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columnWidth": 150
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8c5319f9-bfd1-417f-9b35-73c357c94289",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "21ec242a-6fbf-4d69-8b3a-e88d2f91905a",
+      "name": "C1_SLV"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Template/project_note.md"
+      ],
+      "excludedNotes": [
+        "Projects/C2_RM/Chapter2_plan.md"
+      ],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/C3_VideoTrack",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "93f92958-ebe0-42c8-a23c-74c4b76fb09d",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3636a1ca-9b8b-49f4-8c73-8db2ea911eaf",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "497f723c-e787-4dff-bab9-c223c5d3c03a",
+      "name": "C3_VideoTrack"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Template/project_note.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/C4_TMASImputation",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 245,
+                "hide": true
+              },
+              "excalidraw-plugin": {
+                "width": 130,
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "path",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "a58df3e0-d05a-4fe4-b8e6-41801921bee4",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [
+              "tags"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1ff12175-ded2-4444-ad8a-c679f6d04d52",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "c356a0cc-a43a-4fd5-b160-fa4f409ca449",
+      "name": "C4_TMASImpute"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Template/vlog_template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Notes/vlog",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "start-date",
+              "end-date",
+              "text-status",
+              "slides-status",
+              "film-status",
+              "length",
+              "target-people",
+              "tags"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "summary-status": {
+                "width": 151
+              },
+              "audio-status": {
+                "width": 132
+              },
+              "slides-status": {
+                "width": 178
+              },
+              "start-date": {
+                "width": 150
+              },
+              "end-date": {
+                "width": 147
+              },
+              "name": {
+                "width": 276
+              },
+              "text-status": {
+                "width": 156
+              },
+              "film-status": {
+                "width": 171
+              },
+              "tags": {
+                "width": 107,
+                "hide": false
+              },
+              "target-people": {
+                "width": 102
+              },
+              "length": {
+                "width": 103
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "start-date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "58647841-cc7e-4e1c-86ed-419b0534f350",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "7a71272f-de75-4c55-9a69-e7a159268f4c",
+      "name": "vlog"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Lily",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "195aec4c-ae11-4397-8d14-bd20d12863b4",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "837c2154-00bc-46b8-a992-3527c32d6c10",
+      "name": "Lily"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Template/books_note_template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Notes/book_notes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "tags": {
+                "width": 113
+              },
+              "summary-status": {
+                "width": 165
+              },
+              "start-date": {
+                "width": 132
+              },
+              "read-status": {
+                "width": 132
+              },
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "path",
+              "name",
+              "read-status",
+              "start-date",
+              "end-date",
+              "summary-status",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9762e2f3-da38-42c8-a67d-0b5675435945",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "f687d504-9eb3-4df1-adba-4e141ef72508",
+      "name": "book_notes"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Paper_Writing",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 324
+              },
+              "name": {
+                "hide": false
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3865d71d-51c1-4a60-939b-3db076ba3d32",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "0156d20d-1411-4b08-9fea-f8ae6ad6ece1",
+      "name": "Paper_Writing"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/JobApply",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "80ea4973-58bd-47a1-998d-ae87b6ba55cc",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e9eef530-dca9-4a9f-a0f7-b3575d9e60d9",
+      "name": "job_apply"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

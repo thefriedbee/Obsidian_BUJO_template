@@ -1,0 +1,46 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "1.Daily Log",
+      "template": "Template/Daily Log Template.md"
+    },
+    {
+      "folder": "2.Weekly Log",
+      "template": "Template/Weekly Template.md"
+    },
+    {
+      "folder": "3.Monthly Log",
+      "template": "Template/Monthly Log Template.md"
+    },
+    {
+      "folder": "4.Season Log",
+      "template": "Template/Season Log Template.md"
+    },
+    {
+      "folder": "5.Yearly Log",
+      "template": "Template/Yearly Log Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
