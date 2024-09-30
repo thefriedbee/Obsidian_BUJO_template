@@ -4,39 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9bb1f610d5a95b64",
+        "id": "1c479bad15482fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "819da5b6ccdc9759",
+            "id": "bc144ac6f89a1b6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.Monthly Log/2024-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "3d04370579b26ea4",
+            "id": "37c7770ab468f6f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c872bbd98c35697",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e03b4899ec7047ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5.Yearly Log/2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -91,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.50271224975586
   },
   "right": {
     "id": "767ba892362012e1",
@@ -100,7 +92,7 @@
       {
         "id": "288e836287b6d520",
         "type": "tabs",
-        "dimension": 38.72651356993737,
+        "dimension": 42.606516290726816,
         "children": [
           {
             "id": "a07beaf498cd3237",
@@ -108,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.Yearly Log/2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5.Yearly Log/2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5.Yearly Log/2024.md"
+              }
             }
           },
           {
@@ -169,7 +165,7 @@
             }
           },
           {
-            "id": "3a33949da94b0559",
+            "id": "445ce8c14ba07c50",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -177,12 +173,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
-        "id": "0e01f8319189145f",
+        "id": "9ed54c270b842d00",
         "type": "tabs",
-        "dimension": 61.27348643006263,
+        "dimension": 57.393483709273184,
         "children": [
           {
             "id": "61220a16ae0cd207",
@@ -200,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,39 +215,37 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-file-info-plugin:File Info Panel": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "6d13f95197e8f756",
+  "active": "37c7770ab468f6f4",
   "lastOpenFiles": [
+    "1.Daily Log/2024-09-23.md",
+    "Memory Card.md",
+    "pomodoro.md",
+    "3.Monthly Log/2024-09.md",
+    "Template/Monthly Log Template.md",
+    "2.Weekly Log/2024-W38.md",
+    "1.Daily Log/2024-09-22.md",
+    "Template/Weekly Template.md",
+    "Template/Daily Log Template.md",
+    "Untitled Kanban.md",
+    "1.Daily Log/2024-09-21.md",
+    "Excalidraw/Drawing 2024-09-22 23.32.18.excalidraw.md",
+    "1.Daily Log/2024-09-19.md",
     "README.md",
     "Notes/editing/Davinci Resolve tricks.md",
     "Notes/vlog/CodeMindset.md",
-    "1.Daily Log/2024-09-19.md",
     "1.Daily Log/2024-09-18.md",
     "1.Daily Log/2024-09-17.md",
     "Notes/vlog/PoissonProcess.md",
-    "Untitled.md",
     "Temp file for gpt rephrase.md",
-    "pomodoro.md",
     "phd_ad.md",
     "2024-04-27.md",
     "Transfer Learning.md",
     "1.Daily Log/2024-09-14.md",
     "1.Daily Log/2024-09-13.md",
     "1.Daily Log/2024-09-12.md",
-    "1.Daily Log/2024-09-10.md",
-    "1.Daily Log/2024-09-09.md",
-    "1.Daily Log/2024-09-08.md",
-    "1.Daily Log/2024-09-05.md",
-    "1.Daily Log/2024-09-06.md",
-    "Notes/vlog/NewCodeRoute.md",
-    "1.Daily Log/2024-08-12.md",
-    "2.Weekly Log/2024-W29.md",
-    "1.Daily Log/2024-09-04.md",
-    "1.Daily Log/2024-09-03.md",
     "Literatures.json",
     "LR/My Library.json",
     "ZCOOLXiaoWei-Regular.ttf",

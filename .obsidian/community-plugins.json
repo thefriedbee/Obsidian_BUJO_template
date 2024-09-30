@@ -6,7 +6,6 @@
   "dbfolder",
   "obsidian-tracker",
   "obsidian-minimal-settings",
-  "obsidian-spaced-repetition",
   "obsidian-style-settings",
   "obsidian-kanban",
   "dataview",
@@ -14,5 +13,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-file-info-plugin",
   "obsidian-projects",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-spaced-repetition"
 ]
