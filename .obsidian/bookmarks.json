@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1693095479665,
+      "title": "BulletJournalNotes",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Research",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": true,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#daily-log",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#weekly-log",
+            "color": {
+              "a": 1,
+              "rgb": 3358427
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": 0.4,
+        "nodeSizeMultiplier": 2.5012039410257,
+        "lineSizeMultiplier": 3.99861499753098,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.6178064049206013,
+        "close": false
+      }
+    },
+    {
+      "type": "file",
+      "ctime": 1694738234489,
+      "path": "1.Daily Log/2023-09-14.md",
+      "subpath": "#Tutorial教程",
+      "title": "vlog"
+    },
+    {
+      "type": "file",
+      "ctime": 1695183697190,
+      "path": "Notes/career/Career.md",
+      "title": "thoughtsAboutMyCareer"
+    },
+    {
+      "type": "file",
+      "ctime": 1695427665731,
+      "path": "Research/TRB_freight.md",
+      "title": "TRBFreightMeeting"
+    },
+    {
+      "type": "file",
+      "ctime": 1695840768883,
+      "path": "Research/Dissertation notes.md",
+      "title": "DissertationNotes"
+    }
+  ]
+}

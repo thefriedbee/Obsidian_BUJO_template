@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Research",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#daily-log",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#weekly-log",
+      "color": {
+        "a": 1,
+        "rgb": 3358427
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 2.5012039410257,
+  "lineSizeMultiplier": 3.99861499753098,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6178064049206013,
+  "close": true
+}

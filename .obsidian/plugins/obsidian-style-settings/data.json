@@ -1,0 +1,14 @@
+{
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@table-text-size": "0.75em",
+  "minimal-style@@row-hover": false,
+  "minimal-style@@max-col-width": "24em",
+  "minimal-style@@trim-cols": false,
+  "minimal-style@@maximize-tables-off": "maximize-tables-auto",
+  "minimal-style@@pdf-invert-dark": false,
+  "minimal-style@@pdf-blend-light": false,
+  "minimal-advanced@@cursor": "default"
+}

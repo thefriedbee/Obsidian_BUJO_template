@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "87770ba3bef3b93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c479bad15482fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc144ac6f89a1b6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "37c7770ab468f6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Yearly Log/2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1344d5122038b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc173fd86e1c81e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c1e3592243a607e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f48f580c7be27874",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24d994dd347b02fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.50271224975586
+  },
+  "right": {
+    "id": "767ba892362012e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "288e836287b6d520",
+        "type": "tabs",
+        "dimension": 42.606516290726816,
+        "children": [
+          {
+            "id": "a07beaf498cd3237",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5.Yearly Log/2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024"
+            }
+          },
+          {
+            "id": "d25160a9f3519788",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5.Yearly Log/2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024"
+            }
+          },
+          {
+            "id": "6e1a88a77d96435a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da594cfb060bb141",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5.Yearly Log/2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024"
+            }
+          },
+          {
+            "id": "4628ae296ed0af5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "445ce8c14ba07c50",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "5c78e2d7b49ce743",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "d2c12fbd79493bcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "9ed54c270b842d00",
+        "type": "tabs",
+        "dimension": 57.393483709273184,
+        "children": [
+          {
+            "id": "61220a16ae0cd207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pomodoro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pomodoro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 491.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "37c7770ab468f6f4",
+  "lastOpenFiles": [
+    "5.Yearly Log/2024.md",
+    "1.Daily Log/2024-09-23.md",
+    "Memory Card.md",
+    "pomodoro.md",
+    "3.Monthly Log/2024-09.md",
+    "Template/Monthly Log Template.md",
+    "2.Weekly Log/2024-W38.md",
+    "1.Daily Log/2024-09-22.md",
+    "Template/Weekly Template.md",
+    "Template/Daily Log Template.md",
+    "Untitled Kanban.md",
+    "1.Daily Log/2024-09-21.md",
+    "Excalidraw/Drawing 2024-09-22 23.32.18.excalidraw.md",
+    "1.Daily Log/2024-09-19.md",
+    "README.md",
+    "Notes/editing/Davinci Resolve tricks.md",
+    "Notes/vlog/CodeMindset.md",
+    "1.Daily Log/2024-09-18.md",
+    "1.Daily Log/2024-09-17.md",
+    "Notes/vlog/PoissonProcess.md",
+    "Temp file for gpt rephrase.md",
+    "phd_ad.md",
+    "2024-04-27.md",
+    "Transfer Learning.md",
+    "1.Daily Log/2024-09-14.md",
+    "1.Daily Log/2024-09-13.md",
+    "Literatures.json",
+    "LR/My Library.json",
+    "ZCOOLXiaoWei-Regular.ttf",
+    "Research/LR/My Library.json",
+    "Notes/JS/nextJS/para_routes.png",
+    "img_pool/robustness_diagram.png",
+    "Projects/Lily/lily_classes.jpeg",
+    "Notes/JS/nextJS/nestjs_para_routes.png",
+    "Research/LR/ZoteroLib_MacStudio.json",
+    "Notes/Memory Training/image_pool/gym.jpg",
+    "Notes/Memory Training/image_pool/toilet.jpg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Notes/Memory Training/image_pool/kitchen.jpg",
+    "Notes/Memory Training/image_pool/bedroom.jpg",
+    "Notes/Memory Training/image_pool/balcony.jpg",
+    "Notes/Memory Training/image_pool/IMG_0404.HEIC",
+    "Notes/Memory Training/image_pool/IMG_0396.HEIC",
+    "Notes/Memory Training/image_pool/insurance_waiver.pdf",
+    "Research/LR/pool/tmas_imputation",
+    "Notes/JS/nextJS"
+  ]
+}
