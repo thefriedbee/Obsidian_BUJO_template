@@ -8,31 +8,105 @@
         "type": "tabs",
         "children": [
           {
+            "id": "16ab3a17959b3493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Yearly & Seasonal Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yearly & Seasonal Template"
+            }
+          },
+          {
+            "id": "ef7ab8985186c1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Daily Log Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Log Template"
+            }
+          },
+          {
             "id": "bc144ac6f89a1b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Monthly Log/2024-09.md",
+                "file": "5.Yearly Log/2025.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2025"
             }
           },
           {
-            "id": "37c7770ab468f6f4",
+            "id": "7efd8a5a794a0fd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Yearly Log/2024.md",
+                "file": "Template/Monthly Log Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Monthly Log Template"
+            }
+          },
+          {
+            "id": "f0ef8b6fae21ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Yearly Log/2025.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2025"
+            }
+          },
+          {
+            "id": "6f85c9ec49bba30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Weekly Log/2025-W02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-W02"
+            }
+          },
+          {
+            "id": "d3e2704e45aa0730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Daily Log/2025-01-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-12"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -52,7 +126,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +143,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,15 +153,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.50271224975586
+    "width": 231.50271224975586
   },
   "right": {
     "id": "767ba892362012e1",
@@ -92,7 +171,7 @@
       {
         "id": "288e836287b6d520",
         "type": "tabs",
-        "dimension": 42.606516290726816,
+        "dimension": 39.17274939172749,
         "children": [
           {
             "id": "a07beaf498cd3237",
@@ -100,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.Yearly Log/2024.md",
+                "file": "Template/Yearly & Seasonal Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +187,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Yearly & Seasonal Template"
             }
           },
           {
@@ -117,10 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.Yearly Log/2024.md",
+                "file": "Template/Yearly & Seasonal Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Yearly & Seasonal Template"
             }
           },
           {
@@ -131,7 +214,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,16 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Yearly Log/2024.md"
-              }
-            }
-          },
-          {
-            "id": "6d13f95197e8f756",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
+                "file": "Template/Yearly & Seasonal Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Yearly & Seasonal Template"
             }
           },
           {
@@ -161,24 +240,48 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "445ce8c14ba07c50",
+            "id": "6d13f95197e8f756",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "27a23bd4d4123d14",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "99ab58d205dbfbf6",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9ed54c270b842d00",
         "type": "tabs",
-        "dimension": 57.393483709273184,
+        "dimension": 60.82725060827251,
         "children": [
           {
             "id": "61220a16ae0cd207",
@@ -189,20 +292,30 @@
                 "file": "pomodoro.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "pomodoro"
+            }
+          },
+          {
+            "id": "18876fac399fc0e7",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -215,37 +328,52 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-file-info-plugin:File Info Panel": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "37c7770ab468f6f4",
+  "active": "d3e2704e45aa0730",
   "lastOpenFiles": [
-    "1.Daily Log/2024-09-23.md",
-    "Memory Card.md",
-    "pomodoro.md",
-    "3.Monthly Log/2024-09.md",
-    "Template/Monthly Log Template.md",
-    "2.Weekly Log/2024-W38.md",
-    "1.Daily Log/2024-09-22.md",
-    "Template/Weekly Template.md",
+    "Template/Yearly & Seasonal Template.md",
+    "模版更新（大纲）.md",
     "Template/Daily Log Template.md",
-    "Untitled Kanban.md",
-    "1.Daily Log/2024-09-21.md",
-    "Excalidraw/Drawing 2024-09-22 23.32.18.excalidraw.md",
-    "1.Daily Log/2024-09-19.md",
-    "README.md",
-    "Notes/editing/Davinci Resolve tricks.md",
-    "Notes/vlog/CodeMindset.md",
-    "1.Daily Log/2024-09-18.md",
-    "1.Daily Log/2024-09-17.md",
-    "Notes/vlog/PoissonProcess.md",
-    "Temp file for gpt rephrase.md",
-    "phd_ad.md",
-    "2024-04-27.md",
-    "Transfer Learning.md",
-    "1.Daily Log/2024-09-14.md",
-    "1.Daily Log/2024-09-13.md",
-    "1.Daily Log/2024-09-12.md",
+    "Template/books_note_template.md",
+    "1.Daily Log/2025-01-12.md",
+    "Template/Weekly Template.md",
+    "5.Yearly Log/2025.md",
+    "Template/Monthly Log Template.md",
+    "2.Weekly Log/2025-W02.md",
+    "1.Daily Log/2025-01-03.md",
+    "pomodoro.md",
+    "1.Daily Log/2025-01-01.md",
+    "1.Daily Log/2025-01-02.md",
+    "1.Daily Log/2025-02-04.md",
+    "Home.ics",
+    "5.Yearly Log/2024.md",
+    "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
+    "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",
+    "5.Yearly Log/imgs/spring.jpg.sb-dc883cb7-TBIZkZ",
+    "5.Yearly Log/imgs/fall.jpg.sb-dc883cb7-O0zjTH",
+    "5.Yearly Log/imgs/winter.jpg",
+    "5.Yearly Log/imgs/spring.jpg",
+    "5.Yearly Log/imgs/summer.jpg",
+    "5.Yearly Log/imgs/fall.jpg",
+    "3.Monthly Log/2024-12.md",
+    "5.Yearly Log/imgs",
+    "1.Daily Log/2025-01-31.md",
+    "1.Daily Log/2024-12-31.md",
+    "2.Weekly Log/2024-W52.md",
+    "1.Daily Log/2024-12-27.md",
+    "1.Daily Log/2024-12-26.md",
+    "1.Daily Log/2024-12-29.md",
+    "1.Daily Log/2024-12-24.md",
+    "1.Daily Log/2024-12-30.md",
+    "1.Daily Log/2024-12-15.md",
+    "1.Daily Log/2025-01-05.md",
     "Literatures.json",
     "LR/My Library.json",
     "ZCOOLXiaoWei-Regular.ttf",
@@ -254,17 +382,7 @@
     "img_pool/robustness_diagram.png",
     "Projects/Lily/lily_classes.jpeg",
     "Notes/JS/nextJS/nestjs_para_routes.png",
-    "Research/LR/ZoteroLib_MacStudio.json",
     "Notes/Memory Training/image_pool/gym.jpg",
-    "Notes/Memory Training/image_pool/toilet.jpg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Notes/Memory Training/image_pool/kitchen.jpg",
-    "Notes/Memory Training/image_pool/bedroom.jpg",
-    "Notes/Memory Training/image_pool/balcony.jpg",
-    "Notes/Memory Training/image_pool/IMG_0404.HEIC",
-    "Notes/Memory Training/image_pool/IMG_0396.HEIC",
-    "Notes/Memory Training/image_pool/insurance_waiver.pdf",
-    "Research/LR/pool/tmas_imputation",
-    "Notes/JS/nextJS"
+    "Notes/Memory Training/image_pool/toilet.jpg"
   ]
 }

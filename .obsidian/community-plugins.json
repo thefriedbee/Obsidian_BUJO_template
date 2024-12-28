@@ -9,10 +9,11 @@
   "obsidian-style-settings",
   "obsidian-kanban",
   "dataview",
-  "obsidian-full-calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-file-info-plugin",
   "obsidian-projects",
   "obsidian-mind-map",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "obsidian-day-planner",
+  "obsidian-reminder-plugin"
 ]

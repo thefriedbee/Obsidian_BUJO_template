@@ -33,6 +33,7 @@
     "end-date": "date",
     "excalidraw-export-embed-scene": "checkbox",
     "excalidraw-open-md": "checkbox",
-    "excalidraw-embeddable-theme": "text"
+    "excalidraw-embeddable-theme": "text",
+    "read": "checkbox"
   }
 }

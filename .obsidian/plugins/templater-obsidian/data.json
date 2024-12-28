@@ -32,10 +32,18 @@
     },
     {
       "folder": "5.Yearly Log",
-      "template": "Template/Yearly Log Template.md"
+      "template": "Template/Yearly & Seasonal Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],

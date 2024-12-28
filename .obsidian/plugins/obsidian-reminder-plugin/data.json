@@ -1,0 +1,163 @@
+{
+  "scanned": true,
+  "reminders": {
+    "2.Weekly Log/2024-W52.md": [
+      {
+        "title": "Review this week",
+        "time": "2024-12-29 12:00",
+        "rowNumber": 28
+      }
+    ],
+    "1.Daily Log/2025-01-01.md": [
+      {
+        "title": "Plan next day",
+        "time": "2025-01-01 19:30",
+        "rowNumber": 47
+      },
+      {
+        "title": "Review today",
+        "time": "2025-01-01 22:30",
+        "rowNumber": 48
+      }
+    ],
+    "5.Yearly Log/2025.md": [
+      {
+        "title": "preview",
+        "time": "2025-01-01",
+        "rowNumber": 15
+      },
+      {
+        "title": "review",
+        "time": "2025-02-01",
+        "rowNumber": 16
+      },
+      {
+        "title": "review",
+        "time": "2025-03-01",
+        "rowNumber": 17
+      },
+      {
+        "title": "review",
+        "time": "2025-03-31",
+        "rowNumber": 18
+      },
+      {
+        "title": "preview",
+        "time": "2025-04-01",
+        "rowNumber": 28
+      },
+      {
+        "title": "review",
+        "time": "2025-05-01",
+        "rowNumber": 29
+      },
+      {
+        "title": "review",
+        "time": "2025-06-01",
+        "rowNumber": 30
+      },
+      {
+        "title": "review",
+        "time": "2025-06-30",
+        "rowNumber": 31
+      },
+      {
+        "title": "preview",
+        "time": "2025-07-01",
+        "rowNumber": 41
+      },
+      {
+        "title": "review",
+        "time": "2025-08-01",
+        "rowNumber": 42
+      },
+      {
+        "title": "review",
+        "time": "2025-09-01",
+        "rowNumber": 43
+      },
+      {
+        "title": "review",
+        "time": "2025-09-30",
+        "rowNumber": 44
+      },
+      {
+        "title": "preview",
+        "time": "2025-10-01",
+        "rowNumber": 54
+      },
+      {
+        "title": "review",
+        "time": "2025-11-01",
+        "rowNumber": 55
+      },
+      {
+        "title": "review",
+        "time": "2025-12-01",
+        "rowNumber": 56
+      },
+      {
+        "title": "review",
+        "time": "2025-12-30",
+        "rowNumber": 57
+      }
+    ],
+    "1.Daily Log/2025-01-02.md": [
+      {
+        "title": "Review today",
+        "time": "2025-01-02 22:30",
+        "rowNumber": 52
+      }
+    ],
+    "2.Weekly Log/2025-W02.md": [
+      {
+        "title": "Review this week",
+        "time": "2025-01-12 12:00",
+        "rowNumber": 28
+      }
+    ],
+    "1.Daily Log/2025-01-03.md": [
+      {
+        "title": "Plan next day",
+        "time": "2025-01-03 19:30",
+        "rowNumber": 47
+      },
+      {
+        "title": "Review today",
+        "time": "2025-01-03 22:30",
+        "rowNumber": 48
+      }
+    ],
+    "1.Daily Log/2025-01-12.md": [
+      {
+        "title": "Plan next day",
+        "time": "2025-01-12 19:30",
+        "rowNumber": 47
+      },
+      {
+        "title": "Review today",
+        "time": "2025-01-12 22:30",
+        "rowNumber": 48
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "10:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

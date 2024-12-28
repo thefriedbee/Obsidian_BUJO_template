@@ -27,7 +27,7 @@
   },
   "yearly": {
     "format": "",
-    "template": "Template/Yearly Log Template.md",
+    "template": "Yearly & Seasonal Template",
     "folder": "5.Yearly Log",
     "enabled": true
   }
