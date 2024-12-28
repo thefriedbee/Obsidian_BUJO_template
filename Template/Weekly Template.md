@@ -7,10 +7,8 @@ week: <%moment(tp.file.title).format("gggg-[W]ww")%>
 memories: 
 moods: 
 write: 
-program: 
-vlog: 
-review: false
 ---
+
 # <%moment(tp.file.title).startOf("isoWeek").format("MM/DD")%> - <%moment(tp.file.title).endOf("isoWeek").format("MM/DD")%>
 - [[4.Future log/FutureLog|Future Log]]
 - [[5.Yearly Log/<%moment(tp.file.title).format("YYYY")%>|<%moment(tp.file.title).format("YYYY")%>]]/[[3.Monthly Log/<%moment(tp.file.title).format("YYYY-MM")%>|<%moment(tp.file.title).format("MM")%>]]
@@ -27,15 +25,17 @@ review: false
 
 # Weekly Review
 
+### Reminders
+- [ ] Review this week (<%* tR+="@"%><%moment(tp.file.title).startOf("isoWeek").add(6, "day").format("YYYY-MM-DD")%> 12:00)
 
 ## Habits
 
 ```dataview
 TABLE
-	read AS "📖",
-	write AS "🖊️", 
-	workout AS "🏃",
-	meditation AS "🧘"
+	read AS "📖 read",
+	write AS "🖊️ write", 
+	log AS "📝 summary",
+	workout AS "🏃 workout"
 FROM "1.Daily Log" and #daily-log and #<%moment(tp.file.title).format("gggg-[W]ww") %>
 SORT date ASC
 ```
